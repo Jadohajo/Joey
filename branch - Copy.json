@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.1428115,
+                    51.5125168
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "APL",
+                "description": "If this is showing in white box then joey is very happy, otherwise he is looking at this angry in a text editor.",
+                "name": "Joey's Crazy Test man",
+                "phone": "+44 20 1234 5678",
+                "storeid": "01",
+                "acturisref": "010101010101",
+                "address": "Mighty Mighty North Leigh",
+                "premium": "£1,000,000",
+                "renewaldate": "16th of Jan",
+                "email": "joseph.dove@aplan.co.uk"
+            }
+          }
+      ]
+  }
